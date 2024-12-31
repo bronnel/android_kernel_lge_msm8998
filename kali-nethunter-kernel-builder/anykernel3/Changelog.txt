@@ -1,4 +1,5 @@
-====================     2024-12-31    ====================68c7013  Configuring the Kernel - NFS  [bronnel]
+====================     2024-12-31    ====================d9ef5be  Add Kernel v4.4 and v4.9 patch files  [bronnel]
+68c7013  Configuring the Kernel - NFS  [bronnel]
 b53ed4c  Configuring the 4.x Kernel - USB  [bronnel]
 ef0eb12  Configuring the Kernel - SDR  [bronnel]
 883a4ed  Configuring the Kernel - Wifi  [bronnel]
